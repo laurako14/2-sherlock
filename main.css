@@ -1,0 +1,48 @@
+body {
+    background-color:white;
+}
+
+img {
+    display: inline-block;
+    width: 400pt;
+    height: 400pt;
+    object-fit: contain;
+    float: left;
+    margin-left: 5%;
+}
+
+div {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin-top: 120pt;
+    font-size: 20pt;
+}
+
+    h1 {
+        display: inline-block;
+        width: 100%;
+        font-weight: bold;
+        font-size: 100pt;
+        margin: 0;
+    }
+
+    p {
+        display: inline-block;
+        width: 100%;
+    }
+
+    p {
+        display: inline-block;
+        width: 100%;
+    }
+
+    a {
+        display: inline-block;
+        background-color: darkgrey;
+        color: #ffffff;
+        padding: 15pt;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
